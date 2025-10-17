@@ -21,7 +21,7 @@ PharmaTrack est une application web Angular permettant de gérer efficacement :
 
 1. **Cloner le projet**
 ```bash
-git clone <votre-repo>
+git clone https://github.com/BandeAbdoul/pharmatrack-burkina.git
 cd pharmatrack-burkina
 ```
 
